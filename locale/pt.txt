@@ -1,0 +1,45 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_B16A2C8E_820A_230A_41C7_F2CA1C8757F7.source = https://api.whatsapp.com/send?phone=5522999654598
+LinkBehaviour_B117E3CC_8276_250F_41D6_9C772B8669C0.source = https://api.whatsapp.com/send?phone=5522999654598
+LinkBehaviour_B11733CC_8276_250F_41D9_84E1992361EF.source = https://www.facebook.com/groups/754858287939146
+LinkBehaviour_AF3A4F07_820A_DEF9_41C2_5E0199F6D67D.source = https://www.facebook.com/groups/754858287939146
+LinkBehaviour_B11753CC_8276_250F_41DD_069ADAF63D2C.source = https://www.google.com.br/maps/place/Yannick+Store/@-21.7791767,-41.2910265,3a,75y,154.67h,94.52t/data=!3m6!1e1!3m4!1sSuKzuTjSQUVWRVYzVMs00Q!2e0!7i16384!8i8192!4m12!1m6!3m5!1s0xbdd5ed164409c1:0x3758e59a69461311!2sPLANTA+DOS+P%C3%89S!8m2!3d-21.7790249!4d-41.2902647!3m4!1s0xbdd5b0af905d85:0xef2b1d1914d60621!8m2!3d-21.7793871!4d-41.290935?hl=pt-BR
+LinkBehaviour_B0C2067A_820E_6F0B_41C7_4553ACC3AA3D.source = https://www.google.com.br/maps/place/Yannick+Store/@-21.7791767,-41.2910265,3a,75y,154.67h,94.52t/data=!3m6!1e1!3m4!1sSuKzuTjSQUVWRVYzVMs00Q!2e0!7i16384!8i8192!4m12!1m6!3m5!1s0xbdd5ed164409c1:0x3758e59a69461311!2sPLANTA+DOS+P%C3%89S!8m2!3d-21.7790249!4d-41.2902647!3m4!1s0xbdd5b0af905d85:0xef2b1d1914d60621!8m2!3d-21.7793871!4d-41.290935?hl=pt-BR
+LinkBehaviour_B067B6D2_8276_6F1A_41BF_3B16F1F4087A.source = https://www.instagram.com/yannickstores_/?utm_medium=copy_link
+LinkBehaviour_B11863CC_8276_250F_41DE_103EB65E7BBA.source = https://www.instagram.com/yannickstores_/?utm_medium=copy_link
+
+## Media
+
+### Audio
+audiores_B599DEC6_8216_DF7B_41B4_C6853361191C.mp3Url = media/audio_B3527A48_8216_2777_41DC_3851467E07BF_pt.mp3
+
+### Title
+panorama_AEA3790D_8216_2509_41C0_C06CDF8E3239.label = YANNICK STORE
+video_AC9E3BB5_8216_651E_41DE_29D18170D29E.label = É ASSIM QUE EU VOU_480p
+
+### Video
+videolevel_98893281_8E7D_EB3E_41D2_1610EF666ECF.posterURL = media/video_AC9E3BB5_8216_651E_41DE_29D18170D29E_poster_pt.jpg
+videolevel_98893281_8E7D_EB3E_41D2_1610EF666ECF.url = media/video_AC9E3BB5_8216_651E_41DE_29D18170D29E_pt.mp4
+
+## Skin
+
+### Button
+Button_AEED037C_820A_250F_4198_F293981C4954_mobile.label = Facebook
+Button_AEED037C_820A_250F_4198_F293981C4954.label = Facebook
+Button_AD766CD4_820A_631F_41D4_7D832B1C1AF5_mobile.label = Instagram
+Button_AD766CD4_820A_631F_41D4_7D832B1C1AF5.label = Instagram
+Button_AEA33991_820A_2519_41DE_36DC6C46BAFA.label = Localização
+Button_AEA33991_820A_2519_41DE_36DC6C46BAFA_mobile.label = Localização
+Button_ADA0090C_820A_250F_41CF_1546D1D55BD7_mobile.label = Whatsapp
+Button_ADA0090C_820A_250F_41CF_1546D1D55BD7.label = Whatsapp
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Projeto Yannick Store
